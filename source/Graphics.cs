@@ -222,10 +222,5 @@ namespace Graphics
 
 			return iValue[iCount - (iCount > 1 ? 2 : 1)].ToString();
 		}
-
-		private void ButtonPlusMinus_Click(object sender, EventArgs e)
-		{
-
-		}
 	}
 }
