@@ -287,7 +287,6 @@
 			this.ButtonPlusMinus.TabIndex = 29;
 			this.ButtonPlusMinus.Text = "±";
 			this.ButtonPlusMinus.UseVisualStyleBackColor = true;
-			this.ButtonPlusMinus.Click += new System.EventHandler(this.ButtonPlusMinus_Click);
 			// 
 			// ButtonBracket1
 			// 
